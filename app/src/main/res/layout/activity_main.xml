@@ -48,7 +48,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@color/colorPrimaryDark"
+        android:background="@color/colorPrimary"
         android:text="Tap your finger tip on fingerprint sensor for enrolment."
         android:textColor="@android:color/white"
         android:textSize="7pt"
